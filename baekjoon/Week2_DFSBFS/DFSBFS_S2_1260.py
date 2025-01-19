@@ -1,5 +1,3 @@
-## 1260
-
 from collections import deque
 node, edge, vertex = map(int, input().split())
 graph = []

@@ -1,5 +1,3 @@
-## 10828
-
 import sys
 
 num_req = int(sys.stdin.readline())

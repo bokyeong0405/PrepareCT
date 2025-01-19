@@ -1,5 +1,3 @@
-## 2839
-
 total = int(input())
 
 if total % 5 == 0:
