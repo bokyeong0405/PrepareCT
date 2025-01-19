@@ -1,7 +1,8 @@
+## 1260
+
 from collections import deque
 node, edge, vertex = map(int, input().split())
 graph = []
-
 
 # graph 생성
 for n in range(node+1):
